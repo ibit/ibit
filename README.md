@@ -32,3 +32,6 @@ If you like me, please follow me on my other social networking sites!
 <a href="https://note.com/ibit"><img src="https://fashionsnap-assets.com/asset/format=auto,width=2480/article/images/2022/12/note-newlogo-20221220-1.jpg" alt="Note" width="40" height="40"/></a> &nbsp;
 <a href="https://dev.to/ibit"><img src="https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="Dev Community" width="40" height="40"/></a> &nbsp;
 </p>
+
+## Donation
+<a href="https://www.buymeacoffee.com/ibit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" /></a>
