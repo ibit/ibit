@@ -1,4 +1,4 @@
-![Github readme banner]()
+![Github readme banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZmM25vbWd2MDRtcWhtYXVhYmp1aXRpcjJpdzk1MWQ3aWRydzFseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif)
 # About Me
 <p>
 Age : 16 <br>
@@ -36,13 +36,7 @@ If you like me, please follow me on my other social networking sites!
 ## Article
 [![Zenn](https://img.shields.io/badge/zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/ibit)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/ibit)
-<p>
-<a href="https://note.com/ibit"><img src="https://fashionsnap-assets.com/asset/format=auto,width=2480/article/images/2022/12/note-newlogo-20221220-1.jpg" alt="Note" width="40" height="40"/></a> &nbsp;
-<a href="https://dev.to/ibit"><img src="https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="Dev Community" width="40" height="40"/></a> &nbsp;
-</p>
 
-<p ><a href="https://lapras.com/public/ibit" target="_blank" rel="noopener noreferrer"><img alt="HGPLEN4のLAPRASでのスコアは次の通りです: エンジニアリング: 3.4 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.44 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.4&b=2.85&i=3.44&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 3/30/2024, 12:20:38 AM</p>
 
 ## Donation
 <a href="https://www.buymeacoffee.com/ibit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" /></a>
