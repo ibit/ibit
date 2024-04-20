@@ -37,6 +37,8 @@ If you like me, please follow me on my other social networking sites!
 [![Zenn](https://img.shields.io/badge/zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/ibit)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/ibit)
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 ## Donation
 <a href="https://www.buymeacoffee.com/ibit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" /></a>
