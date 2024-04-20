@@ -30,7 +30,7 @@ If you like me, please follow me on my other social networking sites!
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ibit.dev) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
 [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ibit)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/this-is-ibit)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/this-is-ibit)
 [![Rating](https://badgen.org/img/atcoder/ibit/rating/algorithm?style=for-the-badge&label=AtCoder)](https://atcoder.jp/users/ibit?contestType=algo)
 
 
@@ -39,6 +39,8 @@ If you like me, please follow me on my other social networking sites!
 [![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/ibit)
 
 <!--START_SECTION:lapras-card-->
+<p ><a href="https://lapras.com/public/ibit" target="_blank" rel="noopener noreferrer"><img alt="ibitのLAPRASでのスコアは次の通りです: Engineering: 2.64 / 5.0, Business: 2.85 / 5.0, influence: 3.14 / 5.0." src="https://lapras-card-generator.vercel.app/?e=2.65&b=2.85&i=3.14&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
+Last Updated on 4/20/2024, 15:14:00 PM</p>
 <!--END_SECTION:lapras-card-->
 
 ## Donation
