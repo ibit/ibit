@@ -1,7 +1,7 @@
 ![Github readme banner](https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif?cid=ecf05e47m9azh2j1b6u2zwbf633yo8v7rfl7ybrxptzed7ax&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 # About Me
 <p>
-Age : 15 <br>
+Age : 16 <br>
 From : Japan<br>
 Language : HTML+CSS/Python<br>
 If you like me, please follow me on my other social networking sites!
