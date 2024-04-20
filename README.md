@@ -30,6 +30,7 @@ If you like me, please follow me on my other social networking sites!
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ibit.dev) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
 [![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ibit)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/this-is-ibit)
 [![Rating](https://badgen.org/img/atcoder/ibit/rating/algorithm?style=for-the-badge&label=AtCoder)](https://atcoder.jp/users/ibit?contestType=algo)
 
 
