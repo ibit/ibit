@@ -21,7 +21,7 @@ If you like me, please follow me on my other social networking sites!
 |license| title | summary | lang |
 |--------|--------|--------|--------|
 |        |[Web site](https://ibit.dev) | 個人サイト | HTML+CSS |
-|        |[BMI計算機](github.com/ibit/BMI) | BMI値の測定と判定をするツール | Python |
+|        |[BMI測定](https://github.com/ibit/BMI) | BMI値の測定と判定をするツール | Python |
 |        |[iDeaCube]()|アイデアを気軽にメモするツール|Python|
 
 ## Account
