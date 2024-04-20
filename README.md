@@ -20,9 +20,9 @@ If you like me, please follow me on my other social networking sites!
 ## Productions
 |license| title | summary | lang |
 |--------|--------|--------|--------|
-|        |[Web site](ibit.dev) | 個人サイト | HTML+CSS |
+|        |[Web site](https://ibit.dev) | 個人サイト | HTML+CSS |
 |        |[BMI計算機](github.com/ibit/BMI) | BMI値の測定と判定をするツール | Python |
-|        |coming soon|coming soon|coming soon|
+|        |[iDeaCube]()|アイデアを気軽にメモするツール|Python|
 
 ## Account
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ibit)
