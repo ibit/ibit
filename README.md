@@ -3,7 +3,7 @@
 <p>
 Age : 16 <br>
 From : Japan<br>
-Language : HTML+CSS/Python<br>
+skills : HTML+CSS/Python<br>
 If you like me, please follow me on my other social networking sites!
 </p>
 
