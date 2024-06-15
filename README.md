@@ -18,11 +18,13 @@ If you like me, please follow me on my other social networking sites!
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Productions
-|license| title | summary | lang |
+|Creation Date| title | summary | lang |
 |:------------:|:------------:|:------------:|:------------:|
-|   MIT  |[Web](https://ibit.dev) | 個人サイト | HTML+CSS |
-|   MIT  |[iDeaCube]()|アイデアを気軽にメモするツール|Python|
-| Apache |[BMI測定](https://github.com/ibit/BMI) | BMI値の測定と判定をするツール | Python |
+| 2024/02/20 |[BMI測定](https://github.com/ibit/BMI) | BMI値の判定をするツール | Python |
+| 2024/04/28 |[Web](https://ibit.dev) | 個人サイト | HTML+CSS |
+| 2024/06/16 |[Gemini](https://github.com/ibit/gemini) | Demo tool | Python |
+| unfinished |iDeaCube|アイデアをまとめるツール|Python|
+
 
 ## Account
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ibit)
