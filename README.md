@@ -45,7 +45,7 @@ If you like me, please follow me on my other social networking sites!
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://ibit.dev"><b>Webサイト</b></a></td>
+      <td><a href=""><b>WEBサイト</b></a></td>
       <td><a>HTML/CSS</a></td>
       <td><a>personal website</a></td>
       <td><a>In Progress</a></td>
