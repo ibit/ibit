@@ -7,7 +7,7 @@ I have a strong interest in **web development**, **AI**, and **cybersecurity**, 
 On GitHub, I mainly share my **learning outcomes**, **personal projects**, and open-source contributions.  
 If you'd like to know more about me, please feel free to visit my [Website](https://ibit.dev/).
 
----
+
 
 ## 🧠 My Skills
 
@@ -18,9 +18,9 @@ If you'd like to know more about me, please feel free to visit my [Website](http
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=ibit&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
-## 🌐 Social & Accounts
+
+## 🌐 Social Media
 
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ibit)
 [![BlueSky](https://img.shields.io/badge/BlueSky-00A1F1.svg?style=for-the-badge&logo=bird&logoColor=white)](https://bsky.app/profile/ibit.bsky.social)
@@ -31,7 +31,7 @@ If you'd like to know more about me, please feel free to visit my [Website](http
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/ibit)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/ibit)
 
----
+
 
 ## ☕ Support Me
 
@@ -39,7 +39,7 @@ If you'd like to know more about me, please feel free to visit my [Website](http
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
 </a>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -61,8 +61,8 @@ If you'd like to know more about me, please feel free to visit my [Website](http
       <td>HTML / CSS / JavaScript</td>
       <td>My personal portfolio site</td>
       <td>🛠 In Progress</td>
-      <td>2025-07-10</td>
-      <td>—</td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/ibit/website?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ibit/website?style=flat-square&labelColor=343b41"/></td>
       <td><a href="https://ibit.dev/">ibit.dev</a></td>
     </tr>
   </tbody>
