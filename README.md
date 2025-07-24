@@ -1,6 +1,6 @@
 ![banner](https://pbs.twimg.com/profile_banners/21089269/1737703120/1500x500)
 
-# 👋 About Me
+## 👋 About Me
 
 I’m a student majoring in **Computer Science in Japan**.  
 I have a strong interest in **web development**, **AI**, and **cybersecurity**, and I’m learning something new every day.  
