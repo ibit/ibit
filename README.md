@@ -57,9 +57,9 @@ If you'd like to know more about me, please feel free to visit my [Website](http
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ibit/portfolio"><b>Website</b></a></td>
+      <td><a href="https://github.com/ibit/portfolio"><b>Portfolio</b></a></td>
       <td>HTML / CSS / JavaScript</td>
-      <td>My personal portfolio site</td>
+      <td>My portfolio site</td>
       <td>🛠 In Progress</td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/ibit/website?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ibit/website?style=flat-square&labelColor=343b41"/></td>
