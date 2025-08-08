@@ -57,7 +57,7 @@ If you'd like to know more about me, please feel free to visit my [Website](http
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ibit/website"><b>Website</b></a></td>
+      <td><a href="https://github.com/ibit/portfolio"><b>Website</b></a></td>
       <td>HTML / CSS / JavaScript</td>
       <td>My personal portfolio site</td>
       <td>🛠 In Progress</td>
