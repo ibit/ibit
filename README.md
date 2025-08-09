@@ -20,7 +20,7 @@ If you'd like to know more about me, please feel free to visit my [Website](http
 
 
 
-## 🌐 Social Media
+## 🌐 Social Account
 
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ibit)
 [![BlueSky](https://img.shields.io/badge/BlueSky-00A1F1.svg?style=for-the-badge&logo=bird&logoColor=white)](https://bsky.app/profile/ibit.bsky.social)
