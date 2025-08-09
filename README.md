@@ -5,7 +5,7 @@
 I’m a student majoring in **Computer Science in Japan**.  
 I have a strong interest in **web development**, **AI**, and **cybersecurity**, and I’m learning something new every day.  
 On GitHub, I mainly share my **learning outcomes**, **personal projects**, and open-source contributions.  
-If you'd like to know more about me, please feel free to visit my [Website](https://ibit.dev/).
+If you'd like to know more about me, please feel free to visit my [Portfolio](https://ibit.dev/).
 
 
 
