@@ -41,7 +41,7 @@ If you'd like to know more about me, please feel free to visit my [Website](http
 
 
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 <table>
   <thead>
