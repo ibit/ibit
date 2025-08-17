@@ -69,7 +69,7 @@ If you'd like to know more about me, please feel free to visit my [Portfolio](ht
       <td><a href="https://github.com/ibit/tools"><b>Tools</b></a></td>
       <td>Python</td>
       <td>Python Tools Collection</td>
-      <td>In Progress</td>
+      <td>Endless</td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/ibit/tools?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ibit/tools?style=flat-square&labelColor=343b41" /></td>
       <td><a>On your editor</a></td>
