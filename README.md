@@ -1,4 +1,9 @@
-![banner](https://pbs.twimg.com/profile_banners/21089269/1737703120/1500x500)
+<figure>
+  <img src="https://pbs.twimg.com/profile_banners/21089269/1737703120/1500x500" alt="Mt. Fuji">
+  <figcaption>
+    ⛰This is a photo of Mt. Fuji taken by me.
+  </figcaption>
+</figure>
 
 ## 👋 About Me
 
