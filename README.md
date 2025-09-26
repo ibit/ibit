@@ -25,7 +25,7 @@ If you'd like to know more about me, please feel free to visit my [Portfolio](ht
 
 
 
-## 🌐 Social Account
+## 🌐 Contact Me
 
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ibit)
 [![GitHub](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibit)
