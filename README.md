@@ -38,7 +38,7 @@ If you'd like to know more about me, please feel free to visit my [Portfolio](ht
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![BlueSky](https://img.shields.io/badge/BlueSky-00A1F1.svg?style=for-the-badge&logo=bird&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ibit.dev)
 
 ## ☕ Support Me
 
