@@ -15,12 +15,6 @@ If you'd like to know more about me, please feel free to visit my [Portfolio](ht
 
 
 ## 🧠 My Skills
-
-<p align="left"> 
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ibit&hide=issues&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  <img alt="Top Languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibit&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</p>
-
 [![Trophy](https://github-profile-trophy.vercel.app/?username=ibit&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/ryo-ma/github-profile-trophy)
 
 
