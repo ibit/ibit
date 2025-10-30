@@ -15,8 +15,7 @@ If you'd like to know more about me, please feel free to visit my [Portfolio](ht
 
 
 ## 🧠 My Skills
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ibit&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Trophy](https://github-profile-trophy.vercel.app/api?username=ibit&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🌐 Contact Me
