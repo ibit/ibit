@@ -26,4 +26,4 @@ If you would like to know more about me, please check my [website](https://ibit.
 |Date|Title|Description|
 |---|---|---|
 |'25.06～|[OptFlow](https://optflow.net/)|個人開発者向けのプロジェクト販売/クラファンサービス|
-|'26.05～|[BitCore](https://github.com/BitCore)|AIによる会社運用サービス|
+|'26.05～|[BitCore](https://github.com/BitCore-AI)|AIによる会社運用サービス|
