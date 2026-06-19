@@ -5,7 +5,7 @@ If you would like to know more about me, please check my [website](https://ibit.
 
 ## 🌐 Follow Me
 
-[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ibit_cs)
+[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ibit_cit)
 [![GitHub](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibit)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31543679/ibit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
