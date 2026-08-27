@@ -21,6 +21,9 @@ If you would like to know more about me, please check my [website](https://ibit.
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
 </a>
 
+## 🤖 Vibe Coding
+[![viberank](https://www.viberank.app/api/badge/ibit)](https://www.viberank.app/profile/ibit)
+  
 ## 🚀 My Projects
 
 |Date|Title|Description|
