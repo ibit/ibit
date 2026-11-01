@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="280" height="92" viewBox="0 0 280 92">
-<defs><linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
-<style>.ui{font-family:"Segoe UI","Inter",Helvetica,Arial,sans-serif}</style></defs>
-<rect x="1" y="1" width="278" height="90" rx="14" fill="url(#c)" stroke="#30363d"/>
-<rect x="20" y="24" width="44" height="44" rx="10" fill="#0A66C2"/>
-<text class="ui" x="42" y="55" text-anchor="middle" font-size="22" font-weight="800" fill="#ffffff">in</text>
-<text class="ui" x="80" y="40" font-size="12" fill="#8b949e">LinkedIn</text>
-<text class="ui" x="80" y="62" font-size="18" font-weight="700" fill="#ffffff">ibit</text>
-<text class="ui" x="256" y="52" font-size="16" fill="#A78BFA">→</text>
+  <defs><linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c1612"/><stop offset="1" stop-color="#0f0d0b"/></linearGradient>
+    <style>.ui{font-family:"Segoe UI","Inter",Helvetica,Arial,sans-serif}</style></defs>
+  <rect x="1" y="1" width="278" height="90" rx="14" fill="url(#c)" stroke="#3a3027"/>
+  <rect x="20" y="24" width="44" height="44" rx="10" fill="#0A66C2"/>
+  <text class="ui" x="42" y="55" text-anchor="middle" font-size="22" font-weight="800" fill="#ffffff">in</text>
+  <text class="ui" x="80" y="40" font-size="12" fill="#8b949e">LinkedIn</text>
+  <text class="ui" x="80" y="62" font-size="18" font-weight="700" fill="#ffffff">ibit</text>
+  <text class="ui" x="256" y="52" font-size="16" fill="#F97316">→</text>
 </svg>
