@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="280" height="92" viewBox="0 0 280 92">
-<defs><linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
-<linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
-<style>.ui{font-family:"Segoe UI","Inter",Helvetica,Arial,sans-serif}</style></defs>
-<rect x="1" y="1" width="278" height="90" rx="14" fill="url(#c)" stroke="#30363d"/>
-<rect x="20" y="24" width="44" height="44" rx="10" fill="url(#a)"/>
-<circle cx="42" cy="46" r="12" fill="none" stroke="#ffffff" stroke-width="2.2"/>
-<path d="M30 46 h24 M42 34 c-6 7 -6 17 0 24 M42 34 c6 7 6 17 0 24" stroke="#ffffff" stroke-width="2" fill="none"/>
-<text class="ui" x="80" y="40" font-size="12" fill="#8b949e">Website</text>
-<text class="ui" x="80" y="62" font-size="18" font-weight="700" fill="#ffffff">ibit.dev</text>
-<text class="ui" x="256" y="52" font-size="16" fill="#A78BFA">→</text>
+  <defs><linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c1612"/><stop offset="1" stop-color="#0f0d0b"/></linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F97316"/><stop offset="1" stop-color="#FBBF24"/></linearGradient>
+    <style>.ui{font-family:"Segoe UI","Inter",Helvetica,Arial,sans-serif}</style></defs>
+  <rect x="1" y="1" width="278" height="90" rx="14" fill="url(#c)" stroke="#3a3027"/>
+  <rect x="20" y="24" width="44" height="44" rx="10" fill="url(#a)"/>
+  <circle cx="42" cy="46" r="12" fill="none" stroke="#ffffff" stroke-width="2.2"/>
+  <path d="M30 46 h24 M42 34 c-6 7 -6 17 0 24 M42 34 c6 7 6 17 0 24" stroke="#ffffff" stroke-width="2" fill="none"/>
+  <text class="ui" x="80" y="40" font-size="12" fill="#8b949e">Website</text>
+  <text class="ui" x="80" y="62" font-size="18" font-weight="700" fill="#ffffff">ibit.dev</text>
+  <text class="ui" x="256" y="52" font-size="16" fill="#F97316">→</text>
 </svg>
