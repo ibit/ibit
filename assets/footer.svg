@@ -1,26 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c1612"/><stop offset="1" stop-color="#0f0d0b"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F97316"/><stop offset="1" stop-color="#FBBF24"/></linearGradient>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F97316" stop-opacity="0"/><stop offset="0.5" stop-color="#F97316" stop-opacity="0.9"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/></pattern>
-    <clipPath id="frame"><rect width="1200" height="160" rx="24"/></clipPath>
-    <style>
-      @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
-      .cursor{animation:blink 1.1s steps(1) infinite}
-      .mono{font-family:"Cascadia Code","JetBrains Mono","Fira Code",Consolas,monospace}
-    </style>
-  </defs>
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="160" fill="url(#bg)"/>
-    <rect width="1200" height="160" fill="url(#grid)"/>
-    <path d="M0 110 C100 80 200 140 300 110 S500 80 600 110 S800 140 900 110 S1100 80 1200 110 V160 H0 Z" fill="url(#accent)" fill-opacity="0.12"/>
-    <path d="M0 110 C100 80 200 140 300 110 S500 80 600 110 S800 140 900 110 S1100 80 1200 110" fill="none" stroke="url(#accent)" stroke-width="1.5" stroke-opacity="0.6"/>
-    <line x1="0" y1="1" x2="1200" y2="1" stroke="url(#fade)" stroke-width="2"/>
-    <text class="mono" x="600" y="62" text-anchor="middle" font-size="16" fill="#8b949e"><tspan fill="#FBBF24">PS C:\Users\ibit&gt;</tspan> git commit -m <tspan fill="#F97316">"see you in the next commit"</tspan><tspan class="cursor" fill="#F97316">_</tspan></text>
-    <circle cx="560" cy="88" r="3" fill="#F97316"/>
-    <circle cx="600" cy="88" r="3" fill="#ffffff"/>
-    <circle cx="640" cy="88" r="3" fill="#FBBF24"/>
-    <text class="mono" x="1140" y="140" text-anchor="end" font-size="12" fill="#ffffff" fill-opacity="0.35">ibit.dev</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60">
+  <style>.mono{font-family:"Cascadia Code",Consolas,"JetBrains Mono",monospace}</style>
+  <rect width="1200" height="60" rx="12" fill="#161210"/>
+  <text class="mono" x="40" y="36" font-size="13" fill="#78716c">Thanks for stopping by.</text>
+  <text class="mono" x="1160" y="36" text-anchor="end" font-size="13" fill="#78716c">ibit.dev</text>
 </svg>
