@@ -1,6 +1,6 @@
 ![banner](assets/banner.svg)
 
-![visitors](https://komarev.com/ghpvc/?username=ibit&style=flat-square&color=A78BFA&label=visitors) ![followers](https://img.shields.io/github/followers/ibit?style=flat-square&labelColor=0d1117&color=161b22&logo=github&logoColor=A78BFA&label=followers) ![stars](https://img.shields.io/github/stars/ibit?style=flat-square&labelColor=0d1117&color=161b22&logo=github&logoColor=22D3EE&label=stars) ![status](https://img.shields.io/badge/status-coding...-0d1117?style=flat-square&labelColor=0d1117&color=161b22&logo=githubcopilot&logoColor=A78BFA) ![os](https://img.shields.io/badge/OS-Windows_11-0d1117?style=flat-square&labelColor=0d1117&color=161b22&logo=windows11&logoColor=22D3EE)
+![visitors](https://komarev.com/ghpvc/?username=ibit&style=flat-square&color=F97316&label=visitors) ![followers](https://img.shields.io/github/followers/ibit?style=flat-square&labelColor=0f0d0b&color=1c1612&logo=github&logoColor=F97316&label=followers) ![stars](https://img.shields.io/github/stars/ibit?style=flat-square&labelColor=0f0d0b&color=1c1612&logo=github&logoColor=FBBF24&label=stars) ![status](https://img.shields.io/badge/status-coding...-0f0d0b?style=flat-square&labelColor=0f0d0b&color=1c1612&logo=githubcopilot&logoColor=F97316) ![os](https://img.shields.io/badge/OS-Windows_11-0f0d0b?style=flat-square&labelColor=0f0d0b&color=1c1612&logo=windows11&logoColor=FBBF24)
 
 ## `01` About
 
@@ -22,7 +22,7 @@ flowchart LR
     B --> C(🚀 Ship)
     C --> D(📝 Write it up)
     D --> A
-    classDef step fill:#161b22,stroke:#A78BFA,stroke-width:2px,color:#ffffff,rx:12,ry:12
+    classDef step fill:#1c1612,stroke:#F97316,stroke-width:2px,color:#ffffff,rx:12,ry:12
     class A,B,C,D step
 ```
 
@@ -34,7 +34,7 @@ flowchart LR
 
 ## `04` Activity
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=ibit&hide_border=true&background=0d1117&stroke=30363d&ring=A78BFA&fire=22D3EE&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=8b949e&dates=8b949e)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=ibit&hide_border=true&background=0f0d0b&stroke=3a3027&ring=F97316&fire=FBBF24&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F97316&sideLabels=8b949e&dates=8b949e)
 
 ## `05` Projects
 
