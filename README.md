@@ -30,7 +30,7 @@ flowchart LR
 
 ![stack](assets/stack.svg)
 
-![icons](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,go,docker,aws,git,github,vscode,windows,powershell&theme=dark&perline=14)
+![icons](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,py,git,github,vscode,windows,powershell&theme=dark&perline=13)
 
 ## `04` Activity
 
