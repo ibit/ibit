@@ -1,44 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
-  <defs>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F97316"/><stop offset="1" stop-color="#FBBF24"/></linearGradient>
-    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c1612"/><stop offset="1" stop-color="#0f0d0b"/></linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#F97316" stop-opacity="0.25"/><stop offset="1" stop-color="#F97316" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/></pattern>
-    <clipPath id="frame"><rect width="1200" height="260" rx="20"/></clipPath>
-    <style>
-      .mono{font-family:"Cascadia Code","JetBrains Mono","Fira Code",Consolas,monospace}
-      .ui{font-family:"Segoe UI","Inter",Helvetica,Arial,sans-serif}
-    </style>
-  </defs>
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="260" fill="url(#card)"/>
-    <rect width="1200" height="260" fill="url(#grid)"/>
-    <circle cx="1040" cy="130" r="200" fill="url(#glow)"/>
-    <rect x="0" y="0" width="1200" height="2" fill="url(#accent)"/>
-    <rect x="0" y="0" width="6" height="260" fill="url(#accent)"/>
-    <text class="mono" x="40" y="46" font-size="13" fill="#8b949e"><tspan fill="#FBBF24">PS&gt;</tspan> Get-Project -Status Active</text>
-    <text class="ui" x="40" y="104" font-size="40" font-weight="800" fill="#ffffff" letter-spacing="-1">BitCore</text>
-    <rect x="222" y="78" width="96" height="26" rx="13" fill="#FBBF24" fill-opacity="0.14" stroke="#FBBF24" stroke-opacity="0.6"/><circle cx="238" cy="91" r="5" fill="#FBBF24"/><text class="mono" x="252" y="95" font-size="12" fill="#FBBF24">planning</text>
-    <text class="ui" x="40" y="140" font-size="17" fill="#cbd5e1">AI-powered company operations service</text>
-    <text class="ui" x="40" y="164" font-size="14" fill="#8b949e">Let AI run the boring parts of a company — so builders can build.</text>
-    <g class="mono" font-size="12">
-      <rect x="40" y="188" width="74" height="26" rx="6" fill="#0f0d0b" stroke="#3a3027"/><text x="77" y="205" text-anchor="middle" fill="#F97316">Python</text>
-      <rect x="122" y="188" width="90" height="26" rx="6" fill="#0f0d0b" stroke="#3a3027"/><text x="167" y="205" text-anchor="middle" fill="#F97316">LLM Agents</text>
-      <rect x="220" y="188" width="72" height="26" rx="6" fill="#0f0d0b" stroke="#3a3027"/><text x="256" y="205" text-anchor="middle" fill="#F97316">Next.js</text>
-      <rect x="300" y="188" width="84" height="26" rx="6" fill="#0f0d0b" stroke="#3a3027"/><text x="342" y="205" text-anchor="middle" fill="#F97316">'26.05 →</text>
-    </g>
-    <text class="mono" x="40" y="240" font-size="12" fill="#8b949e">github.com/ibit/BitCore</text>
-    <g>
-      <circle cx="1040" cy="130" r="78" fill="none" stroke="url(#accent)" stroke-width="1.2" stroke-opacity="0.7" stroke-dasharray="30 12"/>
-      <circle cx="1040" cy="130" r="48" fill="none" stroke="#FBBF24" stroke-width="1" stroke-opacity="0.35"/>
-      <rect x="1012" y="102" width="56" height="56" rx="12" fill="#0f0d0b" stroke="url(#accent)" stroke-width="1.5"/>
-      <path d="M1028 118h24M1028 130h24M1028 142h14" stroke="#F97316" stroke-width="2.5" stroke-linecap="round"/>
-      <circle cx="1118" cy="130" r="4" fill="#FBBF24"/>
-      <circle cx="962" cy="130" r="4" fill="#F97316"/>
-      <line x1="1072" y1="130" x2="1114" y2="130" stroke="#FBBF24" stroke-width="1.5" stroke-opacity="0.8" stroke-dasharray="6 6"/>
-      <line x1="966" y1="130" x2="1008" y2="130" stroke="#F97316" stroke-width="1.5" stroke-opacity="0.8" stroke-dasharray="6 6"/>
-      <text class="mono" x="1118" y="152" text-anchor="middle" font-size="10" fill="#FBBF24">ops</text>
-      <text class="mono" x="962" y="152" text-anchor="middle" font-size="10" fill="#F97316">ai</text>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+  <style>
+    .ui{font-family:"Segoe UI","Inter",Helvetica,Arial,sans-serif}
+    .mono{font-family:"Cascadia Code",Consolas,"JetBrains Mono",monospace}
+  </style>
+  <rect width="1200" height="150" rx="12" fill="#161210"/>
+  <rect x="0" y="0" width="8" height="150" fill="#F97316"/>
+  <text class="ui" x="48" y="58" font-size="28" font-weight="700" fill="#ffffff">BitCore</text>
+  <rect x="176" y="36" width="78" height="26" rx="6" fill="#1f1a17" stroke="#3a3027"/>
+  <text class="ui" x="215" y="54" text-anchor="middle" font-size="12" fill="#a8a29e">planning</text>
+  <text class="ui" x="48" y="92" font-size="16" fill="#d6d3d1">AI-powered company operations service</text>
+  <text class="mono" x="48" y="122" font-size="13" fill="#78716c">Python · LLM API · Next.js · started 2026-05</text>
+  <text class="mono" x="1152" y="122" text-anchor="end" font-size="13" fill="#F97316">github.com/ibit/BitCore →</text>
 </svg>
