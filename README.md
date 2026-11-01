@@ -1,6 +1,6 @@
 ![banner](assets/banner.svg)
 
-![visitors](https://komarev.com/ghpvc/?username=ibit&style=flat-square&color=A78BFA&label=visitors) ![followers](https://img.shields.io/github/followers/ibit?style=flat-square&labelColor=0d1117&color=161b22&logo=github&logoColor=A78BFA&label=followers) ![stars](https://img.shields.io/github/stars/ibit?style=flat-square&labelColor=0d1117&color=161b22&logo=github&logoColor=22D3EE&label=stars) ![status](https://img.shields.io/badge/status-coding...-0d1117?style=flat-square&labelColor=0d1117&color=161b22&logo=githubcopilot&logoColor=A78BFA)
+![visitors](https://komarev.com/ghpvc/?username=ibit&style=flat-square&color=A78BFA&label=visitors) ![followers](https://img.shields.io/github/followers/ibit?style=flat-square&labelColor=0d1117&color=161b22&logo=github&logoColor=A78BFA&label=followers) ![stars](https://img.shields.io/github/stars/ibit?style=flat-square&labelColor=0d1117&color=161b22&logo=github&logoColor=22D3EE&label=stars) ![status](https://img.shields.io/badge/status-coding...-0d1117?style=flat-square&labelColor=0d1117&color=161b22&logo=githubcopilot&logoColor=A78BFA) ![os](https://img.shields.io/badge/OS-Windows_11-0d1117?style=flat-square&labelColor=0d1117&color=161b22&logo=windows11&logoColor=22D3EE)
 
 ## `01` About
 
@@ -28,9 +28,9 @@ flowchart LR
 
 ## `03` Stack
 
-| Languages | Web | Infra & Tools |
-|:---:|:---:|:---:|
-| ![languages](https://skillicons.dev/icons?i=ts,js,py,go&theme=dark) | ![web](https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark) | ![tools](https://skillicons.dev/icons?i=docker,aws,git,github,vscode&theme=dark) |
+![stack](assets/stack.svg)
+
+![icons](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,go,docker,aws,git,github,vscode,windows,powershell&theme=dark&perline=14)
 
 ## `04` Activity
 
@@ -38,9 +38,7 @@ flowchart LR
 
 ## `05` Projects
 
-| | Project | What it is | Stack | Status |
-|:---:|:---|:---|:---|:---:|
-| 🧠 | **[BitCore](https://github.com/ibit/BitCore)** | AI-powered company operations service | Python · AI | ![planning](https://img.shields.io/badge/planning-161b22?style=flat-square&labelColor=0d1117&logo=target&logoColor=F59E0B) |
+[![BitCore](assets/projects.svg)](https://github.com/ibit/BitCore)
 
 ## `06` Writing
 
