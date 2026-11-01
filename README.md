@@ -42,11 +42,8 @@ flowchart LR
 
 ## `06` Connect
 
-![connect](assets/connect.svg)
+[![X](assets/tiles/x.svg)](https://twitter.com/ibit_cit) [![LinkedIn](assets/tiles/linkedin.svg)](https://www.linkedin.com/) [![Stack Overflow](assets/tiles/stackoverflow.svg)](https://stackoverflow.com/users/31543679/ibit) [![Website](assets/tiles/website.svg)](https://ibit.dev/)
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **[𝕏 @ibit_cit](https://twitter.com/ibit_cit)** | **[in LinkedIn](https://www.linkedin.com/)** | **[Stack Overflow](https://stackoverflow.com/users/31543679/ibit)** | **[🌐 ibit.dev](https://ibit.dev/)** |
-| **[Zenn](https://zenn.dev/ibit)** | **[Qiita](https://qiita.com/ibit)** | **[☕ Buy Me A Coffee](https://buymeacoffee.com/ibit)** | **[💜 GitHub Sponsors](https://github.com/sponsors/ibit)** |
+[![Zenn](assets/tiles/zenn.svg)](https://zenn.dev/ibit) [![Qiita](assets/tiles/qiita.svg)](https://qiita.com/ibit) [![Buy Me A Coffee](assets/tiles/coffee.svg)](https://buymeacoffee.com/ibit) [![GitHub Sponsors](assets/tiles/sponsors.svg)](https://github.com/sponsors/ibit)
 
 ![footer](assets/footer.svg)
