@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/></pattern>
+<clipPath id="frame"><rect width="1200" height="300" rx="20"/></clipPath>
+<style>
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes rise{0%{opacity:0;transform:translateY(8px)}100%{opacity:1;transform:translateY(0)}}
+@keyframes shimmer{0%{opacity:.5}50%{opacity:1}100%{opacity:.5}}
+.bar{transform-origin:left center;animation:grow 1.2s cubic-bezier(.2,.8,.2,1) both}
+.b1{animation-delay:.2s}.b2{animation-delay:.35s}.b3{animation-delay:.5s}.b4{animation-delay:.65s}.b5{animation-delay:.8s}.b6{animation-delay:.95s}.b7{animation-delay:1.1s}.b8{animation-delay:1.25s}
+.row{animation:rise .6s ease-out both}
+.r1{animation-delay:.1s}.r2{animation-delay:.25s}.r3{animation-delay:.4s}.r4{animation-delay:.55s}.r5{animation-delay:.7s}.r6{animation-delay:.85s}.r7{animation-delay:1s}.r8{animation-delay:1.15s}
+.hd{animation:rise .6s ease-out both}
+.dot{animation:shimmer 2.4s ease-in-out infinite}
+.mono{font-family:"Cascadia Code","JetBrains Mono","Fira Code",Consolas,monospace}
+.ui{font-family:"Segoe UI","Inter",Helvetica,Arial,sans-serif}
+</style>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="300" fill="url(#card)"/>
+<rect width="1200" height="300" fill="url(#grid)"/>
+<rect x="0" y="0" width="1200" height="2" fill="url(#accent)"/>
+<text class="mono hd" x="40" y="44" font-size="13" fill="#8b949e"><tspan fill="#22D3EE">PS&gt;</tspan> Get-Skills | Sort-Object -Descending</text>
+<g class="row r1"><text class="ui" x="40" y="88" font-size="14" font-weight="600" fill="#e5e7eb">TypeScript</text><rect x="190" y="77" width="340" height="10" rx="5" fill="#1f2430"/><rect class="bar b1" x="190" y="77" width="306" height="10" rx="5" fill="url(#accent)"/><text class="mono" x="545" y="88" font-size="12" fill="#A78BFA">90%</text></g>
+<g class="row r2"><text class="ui" x="40" y="124" font-size="14" font-weight="600" fill="#e5e7eb">React / Next.js</text><rect x="190" y="113" width="340" height="10" rx="5" fill="#1f2430"/><rect class="bar b2" x="190" y="113" width="289" height="10" rx="5" fill="url(#accent)"/><text class="mono" x="545" y="124" font-size="12" fill="#A78BFA">85%</text></g>
+<g class="row r3"><text class="ui" x="40" y="160" font-size="14" font-weight="600" fill="#e5e7eb">Node.js</text><rect x="190" y="149" width="340" height="10" rx="5" fill="#1f2430"/><rect class="bar b3" x="190" y="149" width="272" height="10" rx="5" fill="url(#accent)"/><text class="mono" x="545" y="160" font-size="12" fill="#A78BFA">80%</text></g>
+<g class="row r4"><text class="ui" x="40" y="196" font-size="14" font-weight="600" fill="#e5e7eb">Python</text><rect x="190" y="185" width="340" height="10" rx="5" fill="#1f2430"/><rect class="bar b4" x="190" y="185" width="255" height="10" rx="5" fill="url(#accent)"/><text class="mono" x="545" y="196" font-size="12" fill="#A78BFA">75%</text></g>
+<g class="row r5"><text class="ui" x="640" y="88" font-size="14" font-weight="600" fill="#e5e7eb">AI / LLM Apps</text><rect x="790" y="77" width="340" height="10" rx="5" fill="#1f2430"/><rect class="bar b5" x="790" y="77" width="272" height="10" rx="5" fill="url(#accent)"/><text class="mono" x="1145" y="88" font-size="12" fill="#22D3EE">80%</text></g>
+<g class="row r6"><text class="ui" x="640" y="124" font-size="14" font-weight="600" fill="#e5e7eb">Go</text><rect x="790" y="113" width="340" height="10" rx="5" fill="#1f2430"/><rect class="bar b6" x="790" y="113" width="204" height="10" rx="5" fill="url(#accent)"/><text class="mono" x="1145" y="124" font-size="12" fill="#22D3EE">60%</text></g>
+<g class="row r7"><text class="ui" x="640" y="160" font-size="14" font-weight="600" fill="#e5e7eb">Docker / AWS</text><rect x="790" y="149" width="340" height="10" rx="5" fill="#1f2430"/><rect class="bar b7" x="790" y="149" width="221" height="10" rx="5" fill="url(#accent)"/><text class="mono" x="1145" y="160" font-size="12" fill="#22D3EE">65%</text></g>
+<g class="row r8"><text class="ui" x="640" y="196" font-size="14" font-weight="600" fill="#e5e7eb">Git / GitHub</text><rect x="790" y="185" width="340" height="10" rx="5" fill="#1f2430"/><rect class="bar b8" x="790" y="185" width="306" height="10" rx="5" fill="url(#accent)"/><text class="mono" x="1145" y="196" font-size="12" fill="#22D3EE">90%</text></g>
+<line x1="40" y1="228" x2="1160" y2="228" stroke="#ffffff" stroke-opacity="0.08"/>
+<g class="mono" font-size="12" fill="#8b949e">
+<circle class="dot" cx="48" cy="258" r="4" fill="#A78BFA"/><text x="62" y="262">daily driver</text>
+<circle class="dot" cx="190" cy="258" r="4" fill="#22D3EE" style="animation-delay:.8s"/><text x="204" y="262">learning</text>
+<text x="1160" y="262" text-anchor="end" fill="#ffffff" fill-opacity="0.35">self-assessed · updated 2026</text>
+</g>
+</g>
+</svg>
