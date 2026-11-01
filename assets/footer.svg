@@ -1,6 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60">
-  <style>.mono{font-family:"Cascadia Code",Consolas,"JetBrains Mono",monospace}</style>
+  <style>
+    .mono{font-family:"Cascadia Code",Consolas,"JetBrains Mono",monospace}
+    @keyframes up{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    .line{transform-origin:0 0;animation:grow .8s ease-out both}
+    .a1{animation:up .5s ease-out .3s both}
+    .a2{animation:up .5s ease-out .5s both}
+  </style>
   <rect width="1200" height="60" rx="12" fill="#161210"/>
-  <text class="mono" x="40" y="36" font-size="13" fill="#78716c">Thanks for stopping by.</text>
-  <text class="mono" x="1160" y="36" text-anchor="end" font-size="13" fill="#78716c">ibit.dev</text>
+  <rect class="line" x="0" y="0" width="1200" height="2" fill="#F97316"/>
+  <text class="mono a1" x="40" y="36" font-size="13" fill="#78716c">Thanks for stopping by.</text>
+  <text class="mono a2" x="1160" y="36" text-anchor="end" font-size="13" fill="#78716c">ibit.dev</text>
 </svg>
