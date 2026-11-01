@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.35"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/></pattern>
+<clipPath id="frame"><rect width="1200" height="260" rx="20"/></clipPath>
+<style>
+@keyframes rise{0%{opacity:0;transform:translateY(8px)}100%{opacity:1;transform:translateY(0)}}
+@keyframes pulse{0%,100%{opacity:.4;r:5}50%{opacity:1;r:7}}
+@keyframes orbit{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+@keyframes flow{to{stroke-dashoffset:-40}}
+.a1{animation:rise .6s ease-out .1s both}.a2{animation:rise .6s ease-out .3s both}.a3{animation:rise .6s ease-out .5s both}.a4{animation:rise .6s ease-out .7s both}.a5{animation:rise .6s ease-out .9s both}
+.pulse{animation:pulse 2s ease-in-out infinite}
+.orbit{transform-origin:1040px 130px;animation:orbit 18s linear infinite}
+.flow{stroke-dasharray:6 6;animation:flow 1.2s linear infinite}
+.mono{font-family:"Cascadia Code","JetBrains Mono","Fira Code",Consolas,monospace}
+.ui{font-family:"Segoe UI","Inter",Helvetica,Arial,sans-serif}
+</style>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="260" fill="url(#card)"/>
+<rect width="1200" height="260" fill="url(#grid)"/>
+<circle cx="1040" cy="130" r="200" fill="url(#glow)"/>
+<rect x="0" y="0" width="1200" height="2" fill="url(#accent)"/>
+<rect x="0" y="0" width="6" height="260" fill="url(#accent)"/>
+<text class="mono a1" x="40" y="46" font-size="13" fill="#8b949e"><tspan fill="#22D3EE">PS&gt;</tspan> Get-Project -Status Active</text>
+<text class="ui a2" x="40" y="104" font-size="40" font-weight="800" fill="#ffffff" letter-spacing="-1">BitCore</text>
+<g class="a2"><rect x="222" y="78" width="96" height="26" rx="13" fill="#F59E0B" fill-opacity="0.14" stroke="#F59E0B" stroke-opacity="0.6"/><circle class="pulse" cx="238" cy="91" r="5" fill="#F59E0B"/><text class="mono" x="252" y="95" font-size="12" fill="#F59E0B">planning</text></g>
+<text class="ui a3" x="40" y="140" font-size="17" fill="#cbd5e1">AI-powered company operations service</text>
+<text class="ui a3" x="40" y="164" font-size="14" fill="#8b949e">Let AI run the boring parts of a company — so builders can build.</text>
+<g class="a4 mono" font-size="12">
+<rect x="40" y="188" width="74" height="26" rx="6" fill="#0d1117" stroke="#30363d"/><text x="77" y="205" text-anchor="middle" fill="#A78BFA">Python</text>
+<rect x="122" y="188" width="90" height="26" rx="6" fill="#0d1117" stroke="#30363d"/><text x="167" y="205" text-anchor="middle" fill="#A78BFA">LLM Agents</text>
+<rect x="220" y="188" width="72" height="26" rx="6" fill="#0d1117" stroke="#30363d"/><text x="256" y="205" text-anchor="middle" fill="#A78BFA">Next.js</text>
+<rect x="300" y="188" width="84" height="26" rx="6" fill="#0d1117" stroke="#30363d"/><text x="342" y="205" text-anchor="middle" fill="#A78BFA">'26.05 →</text>
+</g>
+<text class="mono a5" x="40" y="240" font-size="12" fill="#8b949e">github.com/ibit/BitCore</text>
+<g class="a4">
+<g class="orbit"><circle cx="1040" cy="130" r="78" fill="none" stroke="url(#accent)" stroke-width="1.2" stroke-opacity="0.7" stroke-dasharray="30 12"/></g>
+<circle cx="1040" cy="130" r="48" fill="none" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.35"/>
+<rect x="1012" y="102" width="56" height="56" rx="12" fill="#0d1117" stroke="url(#accent)" stroke-width="1.5"/>
+<path d="M1028 118h24M1028 130h24M1028 142h14" stroke="#A78BFA" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="1118" cy="130" r="4" fill="#22D3EE"/>
+<circle cx="962" cy="130" r="4" fill="#A78BFA"/>
+<line class="flow" x1="1072" y1="130" x2="1114" y2="130" stroke="#22D3EE" stroke-width="1.5" stroke-opacity="0.8"/>
+<line class="flow" x1="966" y1="130" x2="1008" y2="130" stroke="#A78BFA" stroke-width="1.5" stroke-opacity="0.8"/>
+<text class="mono" x="1118" y="152" text-anchor="middle" font-size="10" fill="#22D3EE">ops</text>
+<text class="mono" x="962" y="152" text-anchor="middle" font-size="10" fill="#A78BFA">ai</text>
+</g>
+</g>
+</svg>
