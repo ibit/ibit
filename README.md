@@ -40,14 +40,13 @@ flowchart LR
 
 [![BitCore](assets/projects.svg)](https://github.com/ibit/BitCore)
 
-## `06` Writing
+## `06` Connect
 
-[![Zenn](https://img.shields.io/badge/Zenn-@ibit-161b22?style=flat-square&labelColor=0d1117&logo=zenn&logoColor=3EA8FF)](https://zenn.dev/ibit) [![Qiita](https://img.shields.io/badge/Qiita-@ibit-161b22?style=flat-square&labelColor=0d1117&logo=qiita&logoColor=55C500)](https://qiita.com/ibit)
+![connect](assets/connect.svg)
 
-## `07` Connect
-
-[![X](https://img.shields.io/badge/X-@ibit__cit-161b22?style=flat-square&labelColor=0d1117&logo=x&logoColor=ffffff)](https://twitter.com/ibit_cit) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-ibit-161b22?style=flat-square&labelColor=0d1117&logo=stackoverflow&logoColor=FE7A16)](https://stackoverflow.com/users/31543679/ibit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ibit-161b22?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=0A66C2)]() [![Website](https://img.shields.io/badge/Web-ibit.dev-161b22?style=flat-square&labelColor=0d1117&logo=googlechrome&logoColor=A78BFA)](https://ibit.dev/)
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-support-161b22?style=flat-square&labelColor=0d1117&logo=buymeacoffee&logoColor=FFDD00)](https://buymeacoffee.com/ibit) [![GitHub Sponsors](https://img.shields.io/badge/Sponsors-support-161b22?style=flat-square&labelColor=0d1117&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/ibit) [![viberank](https://img.shields.io/badge/viberank-profile-161b22?style=flat-square&labelColor=0d1117&logo=githubcopilot&logoColor=A78BFA)](https://viberank.app/profile/ibit)
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **[𝕏 @ibit_cit](https://twitter.com/ibit_cit)** | **[in LinkedIn](https://www.linkedin.com/)** | **[Stack Overflow](https://stackoverflow.com/users/31543679/ibit)** | **[🌐 ibit.dev](https://ibit.dev/)** |
+| **[Zenn](https://zenn.dev/ibit)** | **[Qiita](https://qiita.com/ibit)** | **[☕ Buy Me A Coffee](https://buymeacoffee.com/ibit)** | **[💜 GitHub Sponsors](https://github.com/sponsors/ibit)** |
 
 ![footer](assets/footer.svg)
