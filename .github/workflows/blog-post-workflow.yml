@@ -29,3 +29,5 @@ jobs:
           template: "- [$title]($url) · $feedName · $date"
           date_format: "UTC:yyyy-mm-dd"
           commit_message: "Update latest articles"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"

@@ -17,15 +17,28 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      # Palette: background #161210, empty cell #1f1a17 (panel), cell border #3a3027,
-      # contribution levels step from the panel colour up to the accent #F97316,
-      # snake #ffffff.
+      # Palette: empty cell #1f1a17 (panel), cell border #3a3027, contribution levels
+      # stepping from the panel colour up to the accent #F97316, snake #ffffff.
       - name: Generate the snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#ffffff&color_dots=#1f1a17,#563017,#8c4717,#c35d16,#F97316&color_dot_border=#3a3027&color_background=#161210
+            dist/github-snake.svg?color_snake=#ffffff&color_dots=#1f1a17,#563017,#8c4717,#c35d16,#F97316&color_dot_border=#3a3027
+
+      # The svg-only output is transparent, which would hide the white snake on GitHub's
+      # light theme. Add the #161210 panel so it matches the other cards in both themes.
+      - name: Add the panel background
+        run: |
+          python3 - <<'PY'
+          import re
+          p = "dist/github-snake.svg"
+          s = open(p, encoding="utf-8").read()
+          x, y, w, h = re.search(r'viewBox="([^"]+)"', s).group(1).split()
+          rect = f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="12" fill="#161210"/>'
+          assert "</style>" in s
+          open(p, "w", encoding="utf-8").write(s.replace("</style>", "</style>" + rect, 1))
+          PY
 
       - name: Publish to the output branch
         uses: crazy-max/ghaction-github-pages@v5
