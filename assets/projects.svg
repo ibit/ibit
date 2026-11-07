@@ -17,12 +17,12 @@
   <rect width="1200" height="150" rx="12" fill="#161210"/>
   <rect class="bar" x="0" y="0" width="8" height="150" fill="#F97316"/>
   <g class="a1">
-    <text class="ui" x="48" y="58" font-size="28" font-weight="700" fill="#ffffff">BitCore</text>
-    <rect x="176" y="36" width="86" height="26" rx="6" fill="#1f1a17" stroke="#3a3027"/>
-    <circle class="dot" cx="190" cy="49" r="3.5" fill="#F97316"/>
-    <text class="ui" x="200" y="54" font-size="12" fill="#a8a29e">planning</text>
+    <text class="ui" x="48" y="58" font-size="28" font-weight="700" fill="#ffffff">Scopit</text>
+    <rect x="154" y="36" width="82" height="26" rx="6" fill="#1f1a17" stroke="#3a3027"/>
+    <circle class="dot" cx="168" cy="49" r="3.5" fill="#F97316"/>
+    <text class="ui" x="178" y="54" font-size="12" fill="#a8a29e">founder</text>
   </g>
-  <text class="ui a2" x="48" y="92" font-size="16" fill="#d6d3d1">AI-powered company operations service</text>
-  <text class="mono a3" x="48" y="122" font-size="13" fill="#78716c">Python · LLM API · Next.js · started 2026-05</text>
-  <g class="a4"><text class="mono arrow" x="1152" y="122" text-anchor="end" font-size="13" fill="#F97316">github.com/ibit/BitCore →</text></g>
+  <text class="ui a2" x="48" y="92" font-size="16" fill="#d6d3d1">SNS &amp; community operations studio — X operations and Discord community operations</text>
+  <text class="mono a3" x="48" y="122" font-size="13" fill="#78716c">formerly BitCore · X · Discord · community ops</text>
+  <g class="a4"><text class="mono arrow" x="1152" y="122" text-anchor="end" font-size="13" fill="#F97316">github.com/Scopit →</text></g>
 </svg>
