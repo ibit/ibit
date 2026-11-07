@@ -19,6 +19,6 @@
     <circle class="dot" cx="230" cy="49" r="3.5" fill="#F97316"/>
     <text class="ui" x="240" y="54" font-size="12" fill="#a8a29e">founder</text>
   </g>
-  <text class="ui a2" x="48" y="92" font-size="16" fill="#d6d3d1">Japanese fan community for ILLIT, with a custom multi-function Discord bot</text>
+  <text class="ui a2" x="48" y="92" font-size="16" fill="#d6d3d1">Japanese ILLIT fan community. Custom multi-function Discord bot.</text>
   <text class="mono a3" x="48" y="122" font-size="13" fill="#78716c">fan community · Discord · custom bot</text>
 </svg>

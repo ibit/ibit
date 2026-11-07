@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="412" viewBox="0 0 1200 412">
+  <title>ibit. First-year student. Founder. Operator of official game communities in Japan.</title>
+  <style>
+    .ui{font-family:"Segoe UI","Inter",Helvetica,Arial,sans-serif}
+    .mono{font-family:"Cascadia Code",Consolas,"JetBrains Mono",monospace}
+    @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+    .bar{transform-origin:0 0;animation:grow .6s ease-out both}
+    .a0{animation:up .5s ease-out .1s both}
+    .a1{animation:up .6s ease-out .35s both}
+    .a2{animation:up .6s ease-out .8s both}
+    .a3{animation:up .6s ease-out 1.25s both}
+    .a4{animation:up .6s ease-out 1.85s both}
+    .a5{animation:up .5s ease-out 2.25s both}
+    @media (prefers-reduced-motion:reduce){.bar,.a0,.a1,.a2,.a3,.a4,.a5{animation:none}}
+  </style>
+  <rect width="1200" height="412" rx="12" fill="#161210"/>
+  <rect class="bar" x="0" y="0" width="8" height="412" fill="#F97316"/>
+
+  <text class="ui a0" x="64" y="56" font-size="24" font-weight="700" fill="#ffffff">ibit</text>
+
+  <text class="ui a1" x="64" y="148" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#ffffff">FIRST-YEAR <tspan fill="#F97316">STUDENT.</tspan></text>
+  <text class="ui a2" x="64" y="222" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#F97316">FOUNDER.</text>
+  <g class="a3">
+    <text class="ui" x="64" y="292" font-size="54" font-weight="800" letter-spacing="-1" fill="#ffffff"><tspan fill="#F97316">OPERATOR</tspan> OF OFFICIAL GAME</text>
+    <text class="ui" x="64" y="346" font-size="54" font-weight="800" letter-spacing="-1" fill="#ffffff">COMMUNITIES IN JAPAN.</text>
+  </g>
+
+  <text class="ui a4" x="64" y="388" font-size="24" fill="#d6d3d1">I run communities players call home — and build the systems behind them.</text>
+  <text class="mono a5" x="1136" y="388" text-anchor="end" font-size="13" fill="#78716c">ibit.dev</text>
+</svg>
