@@ -7,7 +7,6 @@ on:
   push:
     branches:
       - main
-      - claude/perfect-profile-readme # TEMPORARY: first verification run, removed before merge
 
 permissions:
   contents: write
