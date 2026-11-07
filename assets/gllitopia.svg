@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+  <style>
+    .ui{font-family:"Segoe UI","Inter",Helvetica,Arial,sans-serif}
+    .mono{font-family:"Cascadia Code",Consolas,"JetBrains Mono",monospace}
+    @keyframes up{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+    @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+    .bar{transform-origin:0 0;animation:grow .5s ease-out both}
+    .a1{animation:up .5s ease-out .15s both}
+    .a2{animation:up .5s ease-out .35s both}
+    .a3{animation:up .5s ease-out .55s both}
+    .dot{animation:pulse 2s ease-in-out infinite}
+  </style>
+  <rect width="1200" height="150" rx="12" fill="#161210"/>
+  <rect class="bar" x="0" y="0" width="8" height="150" fill="#F97316"/>
+  <g class="a1">
+    <text class="ui" x="48" y="58" font-size="28" font-weight="700" fill="#ffffff">GLLITOPIA</text>
+    <rect x="216" y="36" width="82" height="26" rx="6" fill="#1f1a17" stroke="#3a3027"/>
+    <circle class="dot" cx="230" cy="49" r="3.5" fill="#F97316"/>
+    <text class="ui" x="240" y="54" font-size="12" fill="#a8a29e">founder</text>
+  </g>
+  <text class="ui a2" x="48" y="92" font-size="16" fill="#d6d3d1">Japanese fan community for ILLIT, with a custom multi-function Discord bot</text>
+  <text class="mono a3" x="48" y="122" font-size="13" fill="#78716c">fan community · Discord · custom bot</text>
+</svg>
