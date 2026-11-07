@@ -1,0 +1,32 @@
+name: Latest articles
+
+on:
+  schedule:
+    - cron: "23 1 * * *" # daily, 01:23 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/blog-post-workflow.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - name: Refresh the article list in README.md
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://zenn.dev/ibit/feed,https://qiita.com/ibit/feed"
+          feed_names: "Zenn,Qiita"
+          max_post_count: 5
+          template: "- [$title]($url) · $feedName · $date"
+          date_format: "UTC:yyyy-mm-dd"
+          commit_message: "Update latest articles"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
